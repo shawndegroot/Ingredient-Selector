@@ -1,2 +1,2 @@
-# Ingredient-Selector
+# ingredient-selector
 Test
